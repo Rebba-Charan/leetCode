@@ -1,17 +1,21 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> map;
-        for(auto val : nums)
+        int ans = 0;
+        for(int k = 0;k<=31;k++)
         {
-            map[val]++;
-        }
-        int ans;
-        for(auto a : map)
-        {
-            if(a.second == 1) {
-                ans = a.first;
-                break;
+            int temp = (1<<k);
+            int countone = 0;
+            for(int val : nums)
+            {
+                if((val & temp) == 0)
+                {
+                }
+                else countone++;
+            }
+            if((countone%3) == 1)
+            {
+                ans = (ans | temp);
             }
         }
         return ans;
