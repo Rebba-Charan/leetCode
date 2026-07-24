@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/Rebba-Charan/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rebba-Charan/leetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,10 +65,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Rebba-Charan/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Rebba-Charan/leetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rebba-Charan/leetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0338-counting-bits/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
