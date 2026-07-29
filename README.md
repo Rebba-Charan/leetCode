@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Rebba-Charan/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rebba-Charan/leetCode/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rebba-Charan/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0338-counting-bits/) | Easy |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -124,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rebba-Charan/leetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 <!---LeetCode Topics End-->
