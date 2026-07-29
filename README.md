@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rebba-Charan/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rebba-Charan/leetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0338-counting-bits/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
