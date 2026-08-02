@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/Rebba-Charan/leetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0198-house-robber](https://github.com/Rebba-Charan/leetCode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Rebba-Charan/leetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0268-missing-number](https://github.com/Rebba-Charan/leetCode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rebba-Charan/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Rebba-Charan/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Rebba-Charan/leetCode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Rebba-Charan/leetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
