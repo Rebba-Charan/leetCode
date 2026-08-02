@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rebba-Charan/leetCode/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/Rebba-Charan/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Rebba-Charan/leetCode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Rebba-Charan/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -156,5 +158,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Rebba-Charan/leetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
