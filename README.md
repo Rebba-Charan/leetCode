@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Rebba-Charan/leetCode/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/Rebba-Charan/leetCode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rebba-Charan/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -145,9 +147,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
