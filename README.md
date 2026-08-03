@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rebba-Charan/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2939-maximum-xor-product](https://github.com/Rebba-Charan/leetCode/tree/main/2939-maximum-xor-product/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rebba-Charan/leetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Rebba-Charan/leetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Rebba-Charan/leetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
