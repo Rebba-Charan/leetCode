@@ -1,22 +1,17 @@
 class Solution {
 public:
-    vector<vector<long long>> dp;
-    long long solve(int i,vector<int>& nums,int n,int count)
-    {
-        if(i>=n) return 0;
-        if(dp[i][count%2]!=-1) return dp[i][count%2];
-        long long sum1 = (count%2 ==0 ? nums[i] : (-nums[i])) + solve(i+1,nums,n,count+1);
-        long long sum2 = solve(i+1,nums,n,count);
-        return  dp[i][count%2] = max(sum1,sum2);
-    }
+    typedef long long ll;
     long long maxAlternatingSum(vector<int>& nums) {
-        int n = nums.size();
-        if(n == 1) return nums[0];
-        if(n == 2) return max(nums[0],accumulate(begin(nums),end(nums),0));
-        this->dp.assign(n, vector<long long>(2, -1));
-        int count = 0;
-        int i = 0;
-        long long ans = solve(i,nums,n,count);
-        return ans;
+       ll dp[100001][2];
+       dp[0][1] = 0;
+       dp[0][1] = 0;
+       int n = nums.size();
+       for(int i = 1;i<n+1;i++)
+       {
+        dp[i][0] = max(dp[i-1][1]-nums[i-1],dp[i-1][0]);
+        dp[i][1] = max(dp[i-1][0]+ nums[i-1],dp[i-1][1]);
+       }
+       return max(dp[n][0],dp[n][1]);
+
     }
 };
