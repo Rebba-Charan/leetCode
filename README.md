@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Rebba-Charan/leetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rebba-Charan/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rebba-Charan/leetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Rebba-Charan/leetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
