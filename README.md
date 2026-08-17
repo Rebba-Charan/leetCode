@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Rebba-Charan/leetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 | [2939-maximum-xor-product](https://github.com/Rebba-Charan/leetCode/tree/main/2939-maximum-xor-product/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rebba-Charan/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rebba-Charan/leetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Rebba-Charan/leetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rebba-Charan/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rebba-Charan/leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rebba-Charan/leetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -141,10 +143,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 | [2939-maximum-xor-product](https://github.com/Rebba-Charan/leetCode/tree/main/2939-maximum-xor-product/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rebba-Charan/leetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -190,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Rebba-Charan/leetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -207,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rebba-Charan/leetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,4 +221,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rebba-Charan/leetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
