@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Rebba-Charan/leetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rebba-Charan/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rebba-Charan/leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Rebba-Charan/leetCode/tree/main/0268-missing-number/) | Easy |
+| [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -240,13 +243,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 <!---LeetCode Topics End-->
