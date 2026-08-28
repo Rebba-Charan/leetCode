@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rebba-Charan/leetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rebba-Charan/leetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Rebba-Charan/leetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rebba-Charan/leetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rebba-Charan/leetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Rebba-Charan/leetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Rebba-Charan/leetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Rebba-Charan/leetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rebba-Charan/leetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Rebba-Charan/leetCode/tree/master/3479-fruits-into-baskets-iii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
