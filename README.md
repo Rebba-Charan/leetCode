@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Rebba-Charan/leetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Rebba-Charan/leetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rebba-Charan/leetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
@@ -281,4 +282,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/Rebba-Charan/leetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Rebba-Charan/leetCode/tree/master/3479-fruits-into-baskets-iii) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rebba-Charan/leetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
