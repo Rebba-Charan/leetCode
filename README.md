@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rebba-Charan/leetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rebba-Charan/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rebba-Charan/leetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rebba-Charan/leetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Simulation
 |  |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Rebba-Charan/leetCode/tree/main/0067-add-binary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rebba-Charan/leetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/Rebba-Charan/leetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rebba-Charan/leetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
