@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Rebba-Charan/leetCode/tree/main/0877-stone-game/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Rebba-Charan/leetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1140-stone-game-ii](https://github.com/Rebba-Charan/leetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Rebba-Charan/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Rebba-Charan/leetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rebba-Charan/leetCode/tree/main/0067-add-binary/) | Easy |
 | [0796-rotate-string](https://github.com/Rebba-Charan/leetCode/tree/main/0796-rotate-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Rebba-Charan/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rebba-Charan/leetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -316,4 +318,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Rebba-Charan/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
