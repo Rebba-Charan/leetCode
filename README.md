@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rebba-Charan/leetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Rebba-Charan/leetCode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rebba-Charan/leetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Rebba-Charan/leetCode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rebba-Charan/leetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Rebba-Charan/leetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Rebba-Charan/leetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Rebba-Charan/leetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rebba-Charan/leetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rebba-Charan/leetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rebba-Charan/leetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
@@ -318,8 +320,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rebba-Charan/leetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Rebba-Charan/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rebba-Charan/leetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
