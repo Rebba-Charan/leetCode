@@ -5,10 +5,7 @@ public:
         if(i == m -1 && j == n-1) return 1;
         if(i == m || j == n) return 0;
         if(dp[i][j]!=-1) return dp[i][j];
-        int total_count = 0;
-        total_count+= solve(i+1,j,m,n);
-        total_count+= solve(i,j+1,m,n);
-        return dp[i][j] =  total_count;
+        return dp[i][j] = (solve(i+1,j,m,n) + solve(i,j+1,m,n));
     }
     int uniquePaths(int m, int n) {
         memset(dp,-1,sizeof(dp));
