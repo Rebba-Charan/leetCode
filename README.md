@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Rebba-Charan/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rebba-Charan/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rebba-Charan/leetCode/tree/master/2029-stone-game-ix) |
 | [2939-maximum-xor-product](https://github.com/Rebba-Charan/leetCode/tree/main/2939-maximum-xor-product/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rebba-Charan/leetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Rebba-Charan/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Rebba-Charan/leetCode/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rebba-Charan/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rebba-Charan/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Rebba-Charan/leetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Rebba-Charan/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rebba-Charan/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rebba-Charan/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Rebba-Charan/leetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Rebba-Charan/leetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rebba-Charan/leetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rebba-Charan/leetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rebba-Charan/leetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rebba-Charan/leetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
